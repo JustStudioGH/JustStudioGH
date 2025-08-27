@@ -4,4 +4,4 @@
 - Я самый обычный 🇷🇺 Программист, который просто тут эксперементирует.
 - А вы чего ещё тут хотели?
 
-<img src="https://github-readme-stats.vercel.app/api?username=JustStudioGH&theme=default&show_icons=true&hide_border=true&count_private=true" alt="JustStudioGH's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JustStudioGH&bg_color=00000000&show_icons=true&hide_border=true&count_private=true" alt="JustStudio's GitHub Stats"/>
